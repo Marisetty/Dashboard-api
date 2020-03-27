@@ -10,4 +10,5 @@ package com.dashboard.demo.constants;
 public class DashboardConstants
 {
 	public static final String GET_DASHBOARD_DATA = "/getDashboardData";
+	public static final String INSERT_DASHBOARD_DATA = "/insertRecords";
 }
